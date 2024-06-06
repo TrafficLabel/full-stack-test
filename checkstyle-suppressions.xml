@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE suppressions PUBLIC "-//Puppy Crawl//DTD Suppressions 1.1//EN" "http://www.puppycrawl.com/dtds/suppressions_1_1.dtd">
+<suppressions>
+    <suppress checks="." files="[\\/]com.dragonfish.promotions[\\/].*\.java$"/>
+    <suppress checks="." files="[\\/]com.microsoft.schemas._2003._10.Serialization.Arrays[\\/].*\.java$"/>
+    <suppress checks="." files="[\\/]org.datacontract.schemas._2004._07[\\/].*\.java$"/>
+    <suppress checks="." files="[\\/]org.tempuri[\\/].*\.java$"/>
+    <suppress checks="." files="[\\/]com.lindar.p2.common.generated.domain"/>
+</suppressions>
